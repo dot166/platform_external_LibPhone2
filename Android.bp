@@ -1,0 +1,7 @@
+android_app_import {
+    name: "LibPhone2DB",
+    product_specific: true,
+
+    apk: "prebuilt/app-release.apk",
+    preprocessed: true,
+}
